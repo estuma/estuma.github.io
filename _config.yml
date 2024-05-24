@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/estuma.github.io"
+baseurl: "estuma.github.io"
 url: "https://estuma.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
